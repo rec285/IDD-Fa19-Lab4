@@ -1,6 +1,6 @@
 # Paper Puppets
 
-*A lab report by John Q. Student*
+*A lab report by Ryan Curtis*
 
 ## In this Report
 
@@ -15,12 +15,18 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 ### Part 1. Connect the Servo to your breadboard
 
 **a. Which color wires correspond to power, ground and signal?**
+red power
+orange signal
+brown ground
 
 ### Part 2. Connect the Servo to your Arduino
 
 **a. Which Arduino pin should the signal line of the servo be attached to?**
+9
 
 **b. What aspects of the Servo code control angle or speed?**
+angle is the incrementor in each for loop
+speed is the delay in the loop
 
 ## Part C. Integrating input and output
 
@@ -33,4 +39,4 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 ## Part E. Make it your own
 
 **a. Make a video of your final design.**
- 
+  
